@@ -2,11 +2,12 @@
 	width: auto;
 	height: auto;
 	margin:-8;
-	left:0;
+	margin-botom:-10;
 }
 #blocckB{
 	height: auto;
 	width: auto; 
+	margin-botom:-10;
 }
 
 #colorRED{
