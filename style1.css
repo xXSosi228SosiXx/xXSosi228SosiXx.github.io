@@ -1,13 +1,11 @@
 #blocckA{
 	width: auto;
-	height: auto;
+	height: 100%;
 	margin:-8;
-	margin-botom:10;
 }
 #blocckB{
-	height: auto;
+	height:100%;
 	width: auto; 
-	margin-botom:10;
 }
 
 #colorRED{
