@@ -1,10 +1,10 @@
 #blocckA{
 	width: auto;
-	height: 50%;
+	height: 100%;
 }
 #blocckB{
 	height:100%;
-	width: 50%; 
+	width: 100%; 
 }
 
 #colorRED{
@@ -67,9 +67,9 @@ padding-left: 5px;
 #gerbVladof{
 	background-image: url(gerbVladof.jpg);
 	background-repeat: no-repeat;
-	background-size: 1080px 100%;
+	background-size: 1080px auto;
 	width: 100%;
-	height:720px;								
+	height:100%;								
 }
 #podblock1{
 	background-color: red;
