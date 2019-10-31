@@ -1,16 +1,10 @@
 #blocckA{
 	width: auto;
 	height: auto;
-	margin-left: -8px;
-        margin-top: -8px;
-	margin-right: -8px;
 }
 #blocckB{
 	height:100%;
 	width: 100%; 
-	margin-left: -8px;
-        margin-top: -8px;
-	margin-right: -8px;
 }
 
 #colorRED{
