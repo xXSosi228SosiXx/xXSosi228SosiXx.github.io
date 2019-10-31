@@ -1,0 +1,112 @@
+#blocckA{
+	width: auto;
+	height: auto;
+	margin:-8;
+	left:0;
+}
+#blocckB{
+	height: auto;
+	width: auto; 
+}
+#block1{
+	background: url("Vladof.png");
+	background-attachment:fixed; 
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	width: 100%;
+	height: 120%;	
+}
+
+#blockHEAD{
+    background-attachment:fixed; 
+    background-color: #480607;
+    width: 100%;
+    height: 75px;
+}
+
+#gerbVladof{
+	background-image: url(gerbVladof.jpg);
+	background-repeat: no-repeat;
+	background-size: 500px 224px;
+	width: 100%;
+	height:100%;								
+}
+#podblock1{
+	background-color: red;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	width: 100px;
+	height: 100%;
+	margin-left: 50px;
+}
+#podblock2{
+	background-color: red;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	width: 100px;
+	height: 100%;
+	margin-left: 10px;
+}
+
+#blockBODY{
+	margin-right: 110px;
+    margin-left: 110px;
+	background-color:rgba(104,108,94,0.7);
+	max-width: 1200px;
+    width: auto;
+    height: 92%;
+}
+
+p{
+	width: 100%;
+	height: auto;
+	background-attachment:fixed; 
+    
+    margin-top: 0px;
+    font-family:  "m_Agit Prop Medium";
+	font-size:44.5px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-shadow: 
+		-0   -3px 0   #000000,
+		 0   -3px 0   #000000,
+		-0    3px 0   #000000,
+		 0    3px 0   #000000,
+		-3px -0   0   #000000,
+		 3px -0   0   #000000,
+		-3px  0   0   #000000,
+		 3px  0   0   #000000,
+		-1px -3px 0   #000000,
+		 1px -3px 0   #000000,
+		-1px  3px 0   #000000,
+		 1px  3px 0   #000000,
+		-3px -1px 0   #000000,
+		 3px -1px 0   #000000,
+		-3px  1px 0   #000000,
+		 3px  1px 0   #000000,
+		-2px -3px 0   #000000,
+		 2px -3px 0   #000000,
+		-2px  3px 0   #000000,
+		 2px  3px 0   #000000,
+		-3px -2px 0   #000000,
+		 3px -2px 0   #000000,
+		-3px  2px 0   #000000,
+		 3px  2px 0   #000000,
+		-3px -3px 0   #000000,
+		 3px -3px 0   #000000,
+		-3px  3px 0   #000000,
+		 3px  3px 0   #000000,
+		-3px -3px 0   #000000,
+		 3px -3px 0   #000000,
+		-3px  3px 0   #000000,
+		 3px  3px 0   #000000;
+}
+.leftimg {
+    float: left; 
+   }
+#blockrazdelenia{
+	background-size: 100% 100%;
+	background-color: black;
+	width: 100%;
+	height: 20px;
+}

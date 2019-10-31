@@ -1,0 +1,278 @@
+#blocckA{
+	width: auto;
+	height: auto;
+	margin:-8;
+	left:0;
+}
+#blocckB{
+	height: auto;
+	width: auto; 
+}
+
+#colorRED{
+	color: #cc0000;
+}
+
+#colorPINK{
+	color: #cc0099;
+}
+
+#colorORANGE{
+	color: #FFB02E;
+}
+
+#colorBLUE{
+	color: #00bfff;
+}
+
+#colorDURKBLUE{
+	color: #2A52BE;
+}	
+
+#ex1 img {
+	margin:5px;
+transform:scale(1);
+-webkit-transform:scale(1);
+-moz-transform:scale(1);
+-o-transform:scale(1);
+-webkit-transition-duration: 1s;
+-moz-transition-duration: 1s;
+-o-transition-duration: 1s;
+padding-left: 5px;	
+}
+#ex1 img:hover {
+transform:scale(1.48);
+-webkit-transform:scale(1.48);
+-moz-transform:scale(1.48);
+-o-transform:scale(1.48);
+-webkit-transition-duration: 0.7s;
+-moz-transition-duration: 0.7s;
+-o-transition-duration: 0.7s;
+padding-left: 5px;
+}
+
+#block1{
+	background: url("Vladof.png");
+	background-attachment:fixed; 
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	width: 100%;
+	height: 7300px;	
+}
+#blockHEAD{
+    background-attachment:fixed; 
+    background-color: #480607;
+    width: 100%;
+    height: 75px;
+}
+
+#gerbVladof{
+	background-image: url(gerbVladof.jpg);
+	background-repeat: no-repeat;
+	background-size: 500px 224px;
+	width: 100%;
+	height:100%;								
+}
+#podblock1{
+	background-color: red;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	width: 100px;
+	height: 100%;
+	margin-left: 50px;
+}
+#podblock2{
+	background-color: red;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	width: 100px;
+	height: 100%;
+	margin-left: 10px;
+}
+
+#harakteristiki{
+	background-image: url("https://avatars.mds.yandex.net/get-pdb/2296723/b0a972bb-7f3c-47db-8210-d0631548558c/s1200");
+	background-size: 100% 100%;
+	width: 100%;
+	height: 100%;
+}
+
+#animy_plakat{
+	background: url("анимуплакат.jpg");
+	background-attachment:scroll; 
+	background-repeat: no-repeat;
+	background-position: 50% 0%;
+	background-size:50%;
+	width: 100%;
+    height: 350px;
+	opacity: 0.95;
+	padding-top: 75px;
+}
+
+
+
+@font-face { 
+font-family:"m_Agit Prop Medium"; 
+src:url(/fonts/Agitprop.ttf); 
+src: local("m_Agit Prop Medium"), url(/fonts/Agitprop.ttf)
+}
+
+#nadpis{
+	background-attachment:scroll; 
+	margin-top: 100px;
+	margin-left: 150px;
+    font-family:  "m_Agit Prop Medium";
+	font-size:44.5px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-shadow: 
+		-0   -3px 0   #000000,
+		 0   -3px 0   #000000,
+		-0    3px 0   #000000,
+		 0    3px 0   #000000,
+		-3px -0   0   #000000,
+		 3px -0   0   #000000,
+		-3px  0   0   #000000,
+		 3px  0   0   #000000,
+		-1px -3px 0   #000000,
+		 1px -3px 0   #000000,
+		-1px  3px 0   #000000,
+		 1px  3px 0   #000000,
+		-3px -1px 0   #000000,
+		 3px -1px 0   #000000,
+		-3px  1px 0   #000000,
+		 3px  1px 0   #000000,
+		-2px -3px 0   #000000,
+		 2px -3px 0   #000000,
+		-2px  3px 0   #000000,
+		 2px  3px 0   #000000,
+		-3px -2px 0   #000000,
+		 3px -2px 0   #000000,
+		-3px  2px 0   #000000,
+		 3px  2px 0   #000000,
+		-3px -3px 0   #000000,
+		 3px -3px 0   #000000,
+		-3px  3px 0   #000000,
+		 3px  3px 0   #000000,
+		-3px -3px 0   #000000,
+		 3px -3px 0   #000000,
+		-3px  3px 0   #000000,
+		 3px  3px 0   #000000;
+}
+#nadpis1{
+	background-attachment:scroll; 
+	margin-top: 150px;
+	margin-left:75px;
+    font-family:  "m_Agit Prop Medium";
+	font-size:63px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-shadow: 
+		-0   -3px 0   #000000,
+		 0   -3px 0   #000000,
+		-0    3px 0   #000000,
+		 0    3px 0   #000000,
+		-3px -0   0   #000000,
+		 3px -0   0   #000000,
+		-3px  0   0   #000000,
+		 3px  0   0   #000000,
+		-1px -3px 0   #000000,
+		 1px -3px 0   #000000,
+		-1px  3px 0   #000000,
+		 1px  3px 0   #000000,
+		-3px -1px 0   #000000,
+		 3px -1px 0   #000000,
+		-3px  1px 0   #000000,
+		 3px  1px 0   #000000,
+		-2px -3px 0   #000000,
+		 2px -3px 0   #000000,
+		-2px  3px 0   #000000,
+		 2px  3px 0   #000000,
+		-3px -2px 0   #000000,
+		 3px -2px 0   #000000,
+		-3px  2px 0   #000000,
+		 3px  2px 0   #000000,
+		-3px -3px 0   #000000,
+		 3px -3px 0   #000000,
+		-3px  3px 0   #000000,
+		 3px  3px 0   #000000,
+		-3px -3px 0   #000000,
+		 3px -3px 0   #000000,
+		-3px  3px 0   #000000,
+		 3px  3px 0   #000000;
+}
+#nadpis2{
+	padding-top:95px;
+	padding-left:16px; 
+	padding-right: 8px;
+	transform: skewY(1.5deg);
+	font-family:  "m_Agit Prop Medium";
+	font-size: 30px;
+}
+
+A {
+	color: #FFB02E;
+	font-size: 30px;
+	transition: all 0.2s ease;
+    -webkit-transition: all 0.2s ease;
+    -moz-transition: all 0.2s ease;
+    -o-transition: all 0.2s ease;
+    -ms-transition: all 0.2s ease;
+}
+A:hover{
+	font-size: 31px;
+}
+
+table {
+	width: 100%;
+	max-width:1920px;	
+	display: block;
+}
+tr td{
+background: #DCDCDC; 
+border: 1px solid #333; 
+}
+ #yacheika1{
+	 background-size: 90% 250px;
+	 width: 30%;
+}
+
+ #yacheika2{
+	font-family:  "m_Agit Prop Medium";
+ 	text-align: center;
+ 	vertical-align: middle;
+ 	width: 45%;
+	 height: 250px;
+	 padding:-1;
+}
+
+ #yacheika3{
+	font-family:  "m_Agit Prop Medium";
+ 	width: 25%;
+	height: 300px;
+	background-color:rgba(220,220,220,0.0);
+}
+
+#block2{
+	padding-left: 50px;
+	margin-top: 250px;
+	margin-right: 50px;
+	position: relative;
+	overflow: hidden;
+	max-width:11000%;
+	display: block;
+	background-color: #ffffcc;
+	width: auto;
+	height: auto;	
+	background-color: rgba(220,220,220,0);
+}
+
+#block3{
+	background-color: #ffffcc;
+	width: auto;
+	height: auto;	
+	background-color: rgba(128, 0, 0, 0.5);
+}
+.leftimg {
+    float: left; 
+   }
