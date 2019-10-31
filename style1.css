@@ -6,7 +6,7 @@
 }
 #blocckB{
 	height:100%;
-	width: 100%; 
+	width: auto; 
 	margin:-8px;
 	margin-right: -30px;
 }
@@ -73,7 +73,7 @@ padding-left: 5px;
 	background-attachment:fixed; 
 	background-repeat: no-repeat;
 	background-size:100%;
-	width: 100%;
+	width: auto;
 	height:100%;	
 }
 #podblock1{
