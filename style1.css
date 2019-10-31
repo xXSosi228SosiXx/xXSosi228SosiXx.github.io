@@ -2,13 +2,13 @@
 	width: auto;
 	height: auto;
 	margin:-8px;
-	margin-right: -20px;
+	margin-right: -10px;
 }
 #blocckB{
 	height:100%;
 	width: 100%; 
 	margin:-8px;
-	margin-right: -20px;
+	margin-right: -10px;
 }
 
 #colorRED{
@@ -122,7 +122,7 @@ src: local("m_Agit Prop Medium"), url(/fonts/Agitprop.ttf)
 
 #nadpis{
 	background-attachment:scroll; 
-	margin-top: 100px;
+	margin-top: 70px;
 	margin-left: 150px;
     font-family:  "m_Agit Prop Medium";
 	font-size:44.5px;
