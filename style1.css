@@ -237,6 +237,7 @@ table {
 	width: 100%;
 	max-width:1920px;	
 	display: block;
+	margin-top:10px;
 }
 tr td{
 background: #DCDCDC; 
